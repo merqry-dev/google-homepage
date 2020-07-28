@@ -15,7 +15,7 @@
   border-width: 1px;
   border-radius: 1.3em;
   height: 40px;
-  width: 50%;
+  width: 40%;
 }
 
 #mag-glass {
@@ -34,4 +34,25 @@
   width: 80%;
   height: 80%;
   border: none;
+}
+
+.search-buttons {
+  display: block;
+  background-color: #f3f3f3;
+  color: #606469;
+  margin-top: 30px;
+  width: 141px;
+  height: 35px;
+  border: none;
+  border-radius: 5px;
+}
+
+#search-button {
+  float: left;
+  margin-left: 422px;
+}
+
+#lucky-button {
+  float: right;
+  margin-right: 422px;
 }
